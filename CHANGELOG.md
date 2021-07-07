@@ -1,3 +1,7 @@
+## [3.0.3] 3rd April 2020
+
+- Changed ios podspec name and file name
+
 ## [3.0.2] 3rd April 2020
 
 - Improve code coverage
